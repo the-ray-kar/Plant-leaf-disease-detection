@@ -12,5 +12,5 @@ Following are steps
 5. **Image feature extraction using co-occurence matrix : contrast, entropy, homogenity, etc**
  ![Important parts](https://github.com/the-ray-kar/Plant-leaf-disease-detection/blob/main/sample_results/impseg1.jpg)
 ---
-6. **Classification using KNN and SVM**
+6. **Classification using KNN and SVM** <br>
 ![Classification](https://github.com/the-ray-kar/Plant-leaf-disease-detection/blob/main/sample_results/results.png)
