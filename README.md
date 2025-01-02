@@ -13,4 +13,7 @@ Following are steps
  ![Important parts](https://github.com/the-ray-kar/Plant-leaf-disease-detection/blob/main/sample_results/impseg1.jpg)
 ---
 6. **Classification using KNN and SVM** <br>
+My Results
+![Classification my implementation](https://github.com/the-ray-kar/Plant-leaf-disease-detection/blob/54bd481943c3c36f90c1b436a5dfdc105953caf0/sample_results/1911MT05_leaf.jpg)
+In Paper <br>
 ![Classification](https://github.com/the-ray-kar/Plant-leaf-disease-detection/blob/main/sample_results/results.png)
